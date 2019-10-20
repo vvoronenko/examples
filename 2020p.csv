@@ -1,0 +1,455 @@
+first_name,second_name,team,element_type,now_cost
+Shkodran,Mustafi,1,2,55
+Héctor,Bellerín,1,2,55
+Sead,Kolasinac,1,2,55
+Ainsley,Maitland-Niles,1,2,50
+Sokratis,Papastathopoulos,1,2,50
+Nacho,Monreal,1,2,50
+Laurent,Koscielny,1,2,50
+Konstantinos,Mavropanos,1,2,45
+Carl,Jenkinson,1,2,45
+Rob,Holding,1,2,45
+Pierre-Emerick,Aubameyang,1,4,110
+Alexandre,Lacazette,1,4,95
+Edward,Nketiah,1,4,45
+Bernd,Leno,1,1,50
+Mesut,Özil,1,3,75
+Henrikh,Mkhitaryan,1,3,70
+Alex,Iwobi,1,3,60
+Granit,Xhaka,1,3,55
+Lucas,Torreira,1,3,50
+Mohamed,Elneny,1,3,45
+Matteo,Guendouzi,1,3,45
+Emiliano,Martínez,1,1,45
+Ahmed,El Mohamady,2,2,45
+James,Chester,2,2,45
+Neil,Taylor,2,2,45
+Kortney,Hause,2,2,45
+Jonathan,Kodjia,2,4,55
+Ørjan,Nyland,2,1,45
+Conor,Hourihane,2,3,60
+Jack,Grealish,2,3,60
+Anwar,El Ghazi,2,3,55
+John,McGinn,2,3,55
+Andre,Green,2,3,50
+Birkir,Bjarnason,2,3,45
+Keinan,Davis,2,3,45
+Henri,Lansbury,2,3,45
+José Ignacio,Peleteiro Romallo,2,3,60
+Matt,Targett,2,2,45
+Wesley,Moraes,2,4,60
+Jed,Steer,2,1,45
+Tyrone,Mings,2,2,45
+Ezri,Konsa Ngoyo,2,2,45
+Bjorn,Engels,2,2,45
+Steve,Cook,3,2,50
+Nathan,Aké,3,2,50
+Charlie,Daniels,3,2,45
+Chris,Mepham,3,2,45
+Simon,Francis,3,2,45
+Adam,Smith,3,2,45
+Lloyd,Kelly,3,2,45
+Diego,Rico,3,2,40
+Jack,Simpson,3,2,40
+Callum,Wilson,3,4,80
+Joshua,King,3,4,65
+Dominic,Solanke,3,4,55
+Lys,Mousset,3,4,50
+Sam,Surridge,3,4,45
+Asmir,Begovic,3,1,45
+Artur,Boruc,3,1,45
+Mark,Travers,3,1,45
+Ryan,Fraser,3,3,75
+David,Brooks,3,3,65
+Junior,Stanislas,3,3,60
+Jordon,Ibe,3,3,50
+Lewis,Cook,3,3,50
+Andrew,Surman,3,3,50
+Dan,Gosling,3,3,50
+Jefferson,Lerma,3,3,50
+Jack,Stacey,3,2,45
+Shane,Duffy,4,2,50
+Martín,Montoya,4,2,45
+Bernardo,Fernandes da Silva Junior,4,2,45
+Leon,Balogun,4,2,45
+Gaëtan,Bong,4,2,45
+Lewis,Dunk,4,2,45
+Matthew,Clarke,4,2,45
+Glenn,Murray,4,4,60
+Jürgen,Locadia,4,4,55
+Florin,Andone,4,4,50
+Mathew,Ryan,4,1,45
+David,Button,4,1,40
+Pascal,Groß,4,3,65
+Alireza,Jahanbakhsh,4,3,60
+José Heriberto,Izquierdo Mena,4,3,55
+Anthony,Knockaert,4,3,55
+Yves,Bissouma,4,3,50
+Davy,Pröpper,4,3,50
+Solomon,March,4,3,50
+Beram,Kayal,4,3,45
+Dale,Stephens,4,3,45
+Leandro,Trossard,4,3,60
+Ben,Mee,5,2,50
+James,Tarkowski,5,2,50
+Matthew,Lowton,5,2,45
+Phil,Bardsley,5,2,45
+Charlie,Taylor,5,2,45
+Kevin,Long,5,2,45
+Ben,Gibson,5,2,40
+Ashley,Barnes,5,4,65
+Chris,Wood,5,4,65
+Matej,Vydra,5,4,55
+Nick,Pope,5,1,45
+Tom,Heaton,5,1,45
+Joe,Hart,5,1,45
+Johann Berg,Gudmundsson,5,3,60
+Dwight,McNeil,5,3,60
+Robbie,Brady,5,3,55
+Steven,Defour,5,3,55
+Jeff,Hendrick,5,3,55
+Ashley,Westwood,5,3,55
+Jack,Cork,5,3,50
+Aaron,Lennon,5,3,50
+Erik,Pieters,5,2,45
+Jay,Rodriguez,5,4,60
+Marcos,Alonso,6,2,65
+Antonio,Rüdiger,6,2,60
+César,Azpilicueta,6,2,60
+David,Luiz Moreira Marinho,6,2,60
+Emerson,Palmieri dos Santos,6,2,55
+Andreas,Christensen,6,2,50
+Davide,Zappacosta,6,2,45
+Olivier,Giroud,6,4,70
+Kepa,Arrizabalaga,6,1,55
+Willy,Caballero,6,1,50
+Willian,Borges Da Silva,6,3,70
+Pedro,Rodríguez Ledesma,6,3,70
+Ruben,Loftus-Cheek,6,3,65
+Callum,Hudson-Odoi,6,3,60
+Ross,Barkley,6,3,60
+Jorge Luiz,Frello Filho,6,3,50
+N'Golo,Kanté,6,3,50
+Daniel,Drinkwater,6,3,45
+Ethan,Ampadu,6,3,45
+Christian,Pulisic,6,3,75
+Mateo,Kovacic,6,3,55
+Patrick,van Aanholt,7,2,55
+James,Tomkins,7,2,50
+Mamadou,Sakho,7,2,50
+Joel,Ward,7,2,45
+Scott,Dann,7,2,45
+Martin,Kelly,7,2,40
+Christian,Benteke,7,4,60
+Connor,Wickham,7,4,45
+Vicente,Guaita,7,1,50
+Wayne,Hennessey,7,1,45
+Wilfried,Zaha,7,3,70
+Luka,Milivojevic,7,3,70
+Andros,Townsend,7,3,60
+Max,Meyer,7,3,55
+Jeffrey,Schlupp,7,3,55
+James,McArthur,7,3,55
+Cheikhou,Kouyaté,7,3,50
+Luke,Dreher,7,3,45
+Lucas,Digne,8,2,60
+Yerry,Mina,8,2,55
+Michael,Keane,8,2,55
+Seamus,Coleman,8,2,55
+Leighton,Baines,8,2,50
+Cenk,Tosun,8,4,60
+Dominic,Calvert-Lewin,8,4,60
+Jordan,Pickford,8,1,55
+Maarten,Stekelenburg,8,1,40
+Richarlison,de Andrade,8,3,80
+Gylfi,Sigurdsson,8,3,80
+Bernard,Anício Caldeira Duarte,8,3,65
+Theo,Walcott,8,3,65
+Tom,Davies,8,3,55
+Ademola,Lookman,8,3,50
+Idrissa,Gueye,8,3,50
+James,McCarthy,8,3,45
+Morgan,Schneiderlin,8,3,45
+Fabian,Delph,8,2,55
+André Filipe,Tavares Gomes,8,3,55
+Ricardo Domingos,Barbosa Pereira,9,2,60
+Harry,Maguire,9,2,55
+Benjamin,Chilwell,9,2,55
+Jonny,Evans,9,2,50
+Christian,Fuchs,9,2,45
+Çaglar,Söyüncü,9,2,45
+Wes,Morgan,9,2,45
+Jamie,Vardy,9,4,90
+Kelechi,Iheanacho,9,4,60
+Kasper,Schmeichel,9,1,50
+Eldin,Jakupovic,9,1,45
+Danny,Ward,9,1,45
+James,Maddison,9,3,70
+Harvey,Barnes,9,3,60
+Rachid,Ghezzal,9,3,55
+Marc,Albrighton,9,3,55
+Demarai,Gray,9,3,55
+Wilfred,Ndidi,9,3,50
+Matty,James,9,3,45
+Daniel,Amartey,9,3,45
+Nampalys,Mendy,9,3,45
+Hamza,Choudhury,9,3,45
+Ayoze,Pérez,9,3,65
+James,Justin,9,2,50
+Youri,Tielemans,9,3,65
+Andrew,Robertson,10,2,70
+Trent,Alexander-Arnold,10,2,70
+Virgil,van Dijk,10,2,65
+Joseph,Gomez,10,2,55
+Joel,Matip,10,2,55
+Dejan,Lovren,10,2,55
+Roberto,Firmino,10,4,95
+Divock,Origi,10,4,55
+Alisson,Ramses Becker,10,1,60
+Simon,Mignolet,10,1,45
+Mohamed,Salah,10,3,125
+Sadio,Mané,10,3,115
+Alex,Oxlade-Chamberlain,10,3,65
+Xherdan,Shaqiri,10,3,65
+Adam,Lallana,10,3,60
+Naby,Keita,10,3,60
+Fabio Henrique,Tavares,10,3,55
+Jordan,Henderson,10,3,55
+Georginio,Wijnaldum,10,3,55
+James,Milner,10,3,55
+Rafael,Camacho,10,3,45
+Aymeric,Laporte,11,2,65
+Kyle,Walker,11,2,60
+Benjamin,Mendy,11,2,60
+Oleksandr,Zinchenko,11,2,55
+John,Stones,11,2,55
+Nicolás,Otamendi,11,2,55
+Danilo Luiz,da Silva,11,2,50
+Sergio,Agüero,11,4,120
+Gabriel Fernando,de Jesus,11,4,95
+Ederson,Santana de Moraes,11,1,60
+Claudio,Bravo,11,1,50
+Raheem,Sterling,11,3,120
+Kevin,De Bruyne,11,3,95
+Leroy,Sané,11,3,95
+Riyad,Mahrez,11,3,85
+Bernardo Mota,Veiga de Carvalho e Silva,11,3,80
+David,Silva,11,3,75
+Phil,Foden,11,3,55
+Fernando,Luiz Rosa,11,3,55
+Ilkay,Gündogan,11,3,55
+José Ángel,Esmorís Tasende,11,2,50
+Rodrigo,Hernandez,11,3,55
+Aaron,Wan-Bissaka,12,2,55
+Chris,Smalling,12,2,55
+Ashley,Young,12,2,55
+Victor,Lindelöf,12,2,55
+Luke,Shaw,12,2,55
+Marcos,Rojo,12,2,50
+Eric,Bailly,12,2,50
+José Diogo,Dalot Teixeira,12,2,50
+Matteo,Darmian,12,2,50
+Phil,Jones,12,2,50
+Romelu,Lukaku,12,4,85
+Marcus,Rashford,12,4,85
+Mason,Greenwood,12,4,45
+David,de Gea,12,1,55
+Sergio,Romero,12,1,50
+Lee,Grant,12,1,50
+Paul,Pogba,12,3,85
+Anthony,Martial,12,3,75
+Alexis,Sánchez,12,3,70
+Jesse,Lingard,12,3,65
+Juan,Mata,12,3,65
+Daniel,James,12,3,60
+Frederico,Rodrigues de Paula Santos,12,3,55
+Angel,Gomes,12,3,50
+Andreas,Pereira,12,3,50
+Nemanja,Matic,12,3,50
+Scott,McTominay,12,3,50
+Tahith,Chong,12,3,45
+James,Garner,12,3,45
+Matt,Ritchie,13,2,55
+Fabian,Schär,13,2,50
+DeAndre,Yedlin,13,2,45
+Federico,Fernández,13,2,45
+Paul,Dummett,13,2,45
+Javier,Manquillo,13,2,45
+Florian,Lejeune,13,2,45
+Jamaal,Lascelles,13,2,45
+Ciaran,Clark,13,2,45
+Yoshinori,Muto,13,4,55
+Jose Luis,Mato Sanmartín,13,4,50
+Martin,Dubravka,13,1,50
+Karl,Darlow,13,1,45
+Frederick,Woodman,13,1,40
+Miguel,Almirón,13,3,60
+Christian,Atsu,13,3,55
+Sung-yueng,Ki,13,3,50
+Jonjo,Shelvey,13,3,50
+Sean,Longstaff,13,3,50
+Isaac,Hayden,13,3,45
+Timm,Klose,14,2,45
+Ben,Godfrey,14,2,45
+Maximillian,Aarons,14,2,45
+Christoph,Zimmermann,14,2,45
+Jamal,Lewis,14,2,45
+Grant,Hanley,14,2,40
+Teemu,Pukki,14,4,65
+Dennis,Srbeny,14,4,55
+Tim,Krul,14,1,45
+Michael,McGovern,14,1,40
+Mario,Vrancic,14,3,65
+Emiliano,Buendía,14,3,60
+Onel,Hernández,14,3,55
+Marco,Stiepermann,14,3,55
+Kenny,McLean,14,3,50
+Todd,Cantwell,14,3,45
+Moritz,Leitner,14,3,45
+Alexander,Tettey,14,3,45
+Tom,Trybull,14,3,45
+Josip,Drmic,14,4,55
+Patrick,Roberts,14,3,55
+Ralf,Fahrmann,14,1,45
+Sam,Byram,14,2,45
+Enda,Stevens,15,2,50
+Kieron,Freeman,15,2,45
+Jack,O'Connell,15,2,45
+George,Baldock,15,2,45
+John,Egan,15,2,45
+Richard,Stearman,15,2,40
+John,Lundstram,15,2,40
+Billy,Sharp,15,4,60
+Jake,Eastwood,15,1,45
+Mark,Duffy,15,3,55
+John,Fleck,15,3,50
+Oliver,Norwood,15,3,50
+David,McGoldrick,15,4,55
+Chris,Basham,15,2,45
+Simon,Moore,15,1,45
+Luke,Freeman,15,3,55
+Phil,Jagielka,15,2,45
+Callum,Robinson,15,3,55
+Ravel,Morrison,15,3,50
+Jannik,Vestergaard,16,2,50
+Ryan,Bertrand,16,2,50
+Yan,Valery,16,2,50
+Jan,Bednarek,16,2,45
+Jack,Stephens,16,2,45
+Maya,Yoshida,16,2,45
+Kayne,Ramsay,16,2,40
+Charlie,Austin,16,4,60
+Danny,Ings,16,4,60
+Michael,Obafemi,16,4,50
+Shane,Long,16,4,50
+Sam,Gallagher,16,4,45
+Fraser,Forster,16,1,45
+Alex,McCarthy,16,1,45
+Angus,Gunn,16,1,45
+Nathan,Redmond,16,3,65
+James,Ward-Prowse,16,3,60
+Mohamed,Elyounoussi,16,3,55
+Stuart,Armstrong,16,3,55
+Mario,Lemina,16,3,50
+Pierre-Emile,Højbjerg,16,3,50
+Tyreke,Johnson,16,3,45
+Callum,Slattery,16,3,45
+Oriol,Romeu Vidal,16,3,45
+Che,Adams,16,4,60
+Moussa,Djenepo,16,3,55
+Ben,Davies,17,2,55
+Jan,Vertonghen,17,2,55
+Toby,Alderweireld,17,2,55
+Danny,Rose,17,2,55
+Davinson,Sánchez,17,2,55
+Kieran,Trippier,17,2,55
+Juan,Foyth,17,2,50
+Serge,Aurier,17,2,50
+Kyle,Walker-Peters,17,2,50
+Harry,Kane,17,4,110
+Vincent,Janssen,17,4,45
+Hugo,Lloris,17,1,55
+Paulo,Gazzaniga,17,1,45
+Heung-Min,Son,17,3,95
+Christian,Eriksen,17,3,90
+Bamidele,Alli,17,3,85
+Lucas,Rodrigues Moura da Silva,17,3,75
+Erik,Lamela,17,3,60
+Harry,Winks,17,3,55
+Victor,Wanyama,17,3,50
+Moussa,Sissoko,17,3,50
+Eric,Dier,17,3,50
+Luke,Amos,17,3,45
+Oliver,Skipp,17,3,45
+Tanguy,Ndombele,17,3,60
+José,Holebas,18,2,50
+Christian,Kabasele,18,2,45
+Adam,Masina,18,2,45
+Adrian,Mariappa,18,2,45
+Francisco,Femenía Far,18,2,45
+Craig,Cathcart,18,2,45
+Daryl,Janmaat,18,2,45
+Marc,Navarro,18,2,40
+Sebastian,Prödl,18,2,40
+Troy,Deeney,18,4,65
+Gerard,Deulofeu,18,4,65
+Andre,Gray,18,4,60
+Isaac,Success Ajayi,18,4,50
+Ben,Foster,18,1,50
+Pontus,Dahlberg,18,1,45
+Abdoulaye,Doucouré,18,3,60
+Roberto,Pereyra,18,3,60
+Will,Hughes,18,3,55
+Tom,Cleverley,18,3,50
+Ken,Sema,18,3,50
+Etienne,Capoue,18,3,50
+Nathaniel,Chalobah,18,3,45
+Domingos,Quina,18,3,45
+Craig,Dawson,18,2,50
+Aaron,Cresswell,19,2,50
+Angelo,Ogbonna,19,2,45
+Arthur,Masuaku,19,2,45
+Pablo,Zabaleta,19,2,45
+Ryan,Fredericks,19,2,45
+Issa,Diop,19,2,45
+Fabián,Balbuena,19,2,45
+Winston,Reid,19,2,40
+Ben,Johnson,19,2,40
+Marko,Arnautovic,19,4,70
+Javier,Hernández Balcázar,19,4,60
+Alexandre Nascimento,Costa Silva,19,4,45
+Lukasz,Fabianski,19,1,50
+Michail,Antonio,19,3,70
+Felipe Anderson,Pereira Gomes,19,3,70
+Manuel,Lanzini,19,3,65
+Andriy,Yarmolenko,19,3,60
+Robert,Snodgrass,19,3,55
+Jack,Wilshere,19,3,50
+Declan,Rice,19,3,50
+Mark,Noble,19,3,50
+Carlos,Sánchez,19,3,45
+Grady,Diangana,19,3,45
+Pablo,Fornals,19,3,65
+Pedro,Obiang,19,3,45
+Roberto,Jimenez Gago,19,1,45
+Sébastien,Haller,19,4,75
+Matt,Doherty,20,2,60
+Jonathan,Castro Otto,20,2,55
+Conor,Coady,20,2,50
+Ryan,Bennett,20,2,50
+Willy,Boly,20,2,50
+Rúben Gonçalo,Silva Nascimento Vinagre,20,2,45
+Romain,Saïss,20,2,45
+Max,Kilman,20,2,40
+Raúl,Jiménez,20,4,75
+Diogo,Jota,20,4,65
+Rui Pedro,dos Santos Patrício,20,1,50
+John,Ruddy,20,1,45
+Will,Norris,20,1,40
+Rúben Diogo,da Silva Neves,20,3,55
+João Filipe Iria,Santos Moutinho,20,3,55
+Morgan,Gibbs-White,20,3,50
+Adama,Traoré,20,3,50
+Hélder,Costa,20,3,50
+Ivan,Cavaleiro,20,3,50
+Leander,Dendoncker,20,3,45
